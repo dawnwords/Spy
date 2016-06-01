@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Spy</string>
+    <string name="connect">Connect</string>
+    <string name="ip_address">IP Address</string>
+    <string name="port">Port</string>
+
+</resources>
